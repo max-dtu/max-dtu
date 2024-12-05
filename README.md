@@ -1,7 +1,7 @@
 - Hi, I’m Kal
 -  I’m interested in the Web, security, NLP & ML, AI, Blockchain, Fintech.
 -  I’m currently learning Software engeneering at DTU
--  I’m looking to collaborate on the aboved mentioned arias.
+-  I’m looking to collaborate on the aboved mentioned areas.
 -  I can be reached via wx1@outlook.dk
 
 
