@@ -2,7 +2,7 @@
 -  I’m interested in the Web, security, NLP & ML, AI, Blockchain, Fintech.
 -  I’m currently learning Software engeneering at DTU
 -  I’m looking to collaborate on the aboved mentioned areas.
--  You can reach me via [email](mailto:wx1re@outlook.dk) or on [LinkedIn](https://www.linkedin.com/in/jofdr-orgsre/).
+-  You can reach me via [email](mailto:wx1@outlook.dk) or on [LinkedIn](https://www.linkedin.com/in/jor-orgs/).
 
 
 
